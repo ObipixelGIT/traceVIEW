@@ -51,13 +51,6 @@ import subprocess
 import requests
 import simplekml
 
-
-# Print ASCII art
-print("""
-░▀█▀▒█▀▄▒▄▀▄░▄▀▀▒██▀░█▒█░█▒██▀░█░░▒█
-░▒█▒░█▀▄░█▀█░▀▄▄░█▄▄░▀▄▀░█░█▄▄░▀▄▀▄▀
-""")
-
 # Prompt user for domain name
 domain = input("Enter domain: ")
 
