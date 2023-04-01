@@ -17,6 +17,7 @@ traceVIEW performs a traceroute to a given domain, extracts the IP addresses ret
 - A report is printed to the console showing the domain name being traced.
 - The KML file is saved as traceVIEW-[domain]-map.kml.
 - A message is printed to the console indicating that the traceroute results and KML file have been generated and saved to disk.
+- *** a sample KML has been attached from a domain trace of: bbc.com (traceVIEW-bbc.com-map.kml)
 
 ## Preparation
 
